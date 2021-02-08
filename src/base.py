@@ -30,4 +30,7 @@ class AxisData:
         "Time":"Time (s)",
         "AngleOfAttack":"Angle of Attack (rad)",
         "Thrust":"Thrust (N)",
+        "X":"Eastings",
+        "Y":"Northings",
+        "Z":"Altitude",
     }
