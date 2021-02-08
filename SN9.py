@@ -1,8 +1,7 @@
 ## Author DrFargo
 ## Created: 2021-02-07
+ 
+from src.base import starshipSimulation as SS
 
-#JUST TEST
-
-from base import starshipSimulation as SS
-
-SS.Starship()
+Sim = SS()
+Sim.Render('SN9')
