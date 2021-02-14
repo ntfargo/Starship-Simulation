@@ -6,9 +6,7 @@ SpaceX Starship simulation with python, matplotlib &amp; mpl_toolkits.mplot3d
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install matplotlib.
 
 ```bash
-pip install matplotlib
-pip install numpy
-pip install scipy
+$ pip install -r requirements.txt
 ```
 
 **In Development!**
