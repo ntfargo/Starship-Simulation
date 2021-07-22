@@ -9,4 +9,4 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install matplot
 $ pip install -r requirements.txt
 ```
 
-**Temporarily Closed**
+**Closed**
